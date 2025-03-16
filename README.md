@@ -69,3 +69,16 @@ Each class serves a specific purpose, enhancing readability and maintainability.
 ## Conclusion
 This project demonstrates the implementation of a simple calculator using C# while following OOP principles. The structured approach ensures code reusability, maintainability, and scalability.
 
+# Below is the attached Screenshot for the Calculator Application Output
+## Without Error (Positive Integers)
+![image](https://github.com/user-attachments/assets/2a36e5d0-3d6c-4896-b540-83842db00e70)
+
+## Without Error (Negative Integers)
+![image](https://github.com/user-attachments/assets/2b1521a3-2a29-4526-af0d-2e4bd11b5fb9)
+
+## With Divisibility Error 
+![image](https://github.com/user-attachments/assets/c14c4c27-4495-4dd0-97d1-d4afb40fdae5)
+
+
+
+
