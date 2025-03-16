@@ -1,0 +1,8 @@
+C:\Users\MY LAPTOP\source\repos\Calculator\DebuggingApplication\bin\Debug\DebuggingApplication.exe.config
+C:\Users\MY LAPTOP\source\repos\Calculator\DebuggingApplication\bin\Debug\DebuggingApplication.exe
+C:\Users\MY LAPTOP\source\repos\Calculator\DebuggingApplication\bin\Debug\DebuggingApplication.pdb
+C:\Users\MY LAPTOP\source\repos\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\source\repos\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY LAPTOP\source\repos\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\source\repos\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.exe
+C:\Users\MY LAPTOP\source\repos\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.pdb
