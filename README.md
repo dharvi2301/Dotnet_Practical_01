@@ -79,6 +79,26 @@ This project demonstrates the implementation of a simple calculator using C# whi
 ## With Divisibility Error 
 ![image](https://github.com/user-attachments/assets/c14c4c27-4495-4dd0-97d1-d4afb40fdae5)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Debugging Application
+
+## Description
+This is a simple C# console application that reads user input, converts it into an integer, and then evaluates whether it is a truthy value. If the entered value is nonzero, it prints "The entered value is an integer." The program includes a debug point for debugging purposes.
+
+## Features
+- Reads user input from the console.
+- Converts the input into an integer.
+- Evaluates the integer as a boolean value.
+- Prints a message if the value is nonzero.
+- Contains a debug point for analysis.
+
+## Prerequisites
+- .NET SDK installed on your system.
+- A C#-compatible IDE or a text editor (e.g., Visual Studio, Visual Studio Code).
+
+
+
+
 
 
 
