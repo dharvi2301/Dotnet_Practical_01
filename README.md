@@ -96,6 +96,18 @@ This is a simple C# console application that reads user input, converts it into 
 - .NET SDK installed on your system.
 - A C#-compatible IDE or a text editor (e.g., Visual Studio, Visual Studio Code).
 
+- # Below is the attached Screenshot for the Debugging Application Output
+- ## By entering the integer you will get the below output
+- ![image](https://github.com/user-attachments/assets/60992a57-f9c0-4838-b08a-1bd652be2064)
+
+- ## By entering the 0 you will get no output
+![image](https://github.com/user-attachments/assets/a04c18b2-0295-4b39-bc7c-c1d4c4ed84df)
+
+## By entering the input as the string you will notice the below exception is been thrown
+![image](https://github.com/user-attachments/assets/07381201-d364-47fb-b622-6e510d54fa4b)
+
+
+
 
 
 
